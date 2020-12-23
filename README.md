@@ -39,12 +39,10 @@ $balance.write { v in
 
 ```swift
 let currentBalance = $balance.read { $0 }
-// or
-// $balance.value
 
-let currentToken = $token.value // or $token.read { $0 }
+let currentToken = $token.read { $0 }
 
-let tmpAvatarUrls = $historyAvatarUrlStrings.value // or $historyAvatarUrlStrings.read { $0 }
+let tmpAvatarUrls = $historyAvatarUrlStrings.read { $0 }
 ```
 
 
