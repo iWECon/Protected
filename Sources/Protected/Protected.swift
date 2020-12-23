@@ -10,7 +10,7 @@ public class Protected<T> {
     
     private let lock = UnfairLock()
     
-    public var value: T
+    public private(set) var value: T
     
     public init(_ value: T) {
         self.value = value
