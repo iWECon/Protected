@@ -2,7 +2,7 @@
 
 Awesome `os_unfair_lock`  wrapper.
 
-> From [Alamofire](https://github.com/Alamofire/Alamofire)
+> From [Alamofire Protected.swift](https://github.com/Alamofire/Alamofire/blob/master/Source/Protected.swift)
 
 
 ## How to use
