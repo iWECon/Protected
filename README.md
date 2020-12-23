@@ -2,7 +2,7 @@
 
 Awesome `os_unfair_lock`  wrapper.
 
-> From ![Alamofire](https://github.com/Alamofire/Alamofire)
+> From [Alamofire](https://github.com/Alamofire/Alamofire)
 
 
 ## How to use
